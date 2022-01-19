@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://wallpapers.com/images/high/black-bear-cell-phone-image-fuhg5v3d4jtp0u89.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: antiquewhite;
+    font-family: 'Roboto', sans-serif;
+}
+  h1 {
+    color: rgb(49, 38, 8);
+    text-align: right;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+#date {
+    font-size: 5rem;
+}
+.title {
+    text-align: center;
+    font-size: 5rem;
+}
+.main {
+    
+}
+.main--input {
+    width: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.number--input {
+    width: 100%;
+}
+.main--text {
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 2rem;
+}
+.main--button{
+    padding: 0.5rem 2rem;
+    background-color: #ffc30b;
+    border-radius: 15px;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
